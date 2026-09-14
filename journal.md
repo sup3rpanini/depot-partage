@@ -1,1 +1,2 @@
 - [A] Premier commit du binôme
+- [B] Bien reçu, à mon tour !
