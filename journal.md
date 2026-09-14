@@ -1,2 +1,2 @@
-- [A] Premier commit du binôme
+# Journal du binôme (version A)
 - [B] Bien reçu, à mon tour !
